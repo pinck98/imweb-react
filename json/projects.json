@@ -1,0 +1,4 @@
+[
+  { "img": "../images/projects/imweb.JPG", "id": "project_1" ,"info" : "IM WEB - Portfolio site" ,"link" : "//imweb.netlify.app" },
+  { "img": "../images/projects/thaliafashion.JPG", "id": "project_2" ,"info" : "Thalia fashion - Fashion shop site" ,"link" : "//thaliafashion.netlify.app" }
+]
