@@ -1,0 +1,6 @@
+[
+    {"name" :"Ibrahim Mad'ed" ,"img" :"../images/team/ibrahim.jpg", "id" :"SV_team1" ,"link" :"https://www.youtube.com/channel/UCUR5mx6YA4r8h-u8e5TdlRQ"},
+    {"name" :"George Shalash" ,"img" :"../images/team/george_shalash.jpg", "id" :"SV_team2" ,"link" :"https://www.youtube.com/channel/UCUR5mx6YA4r8h-u8e5TdlRQ"},
+    {"name" :"Mario Serhan" ,"img" :"../images/team/mario_serhan.jpeg", "id" :"SV_team3" ,"link" :"https://www.youtube.com/channel/UCUR5mx6YA4r8h-u8e5TdlRQ"},
+    {"name" :"Ibrahim Lawand" ,"img" :"../images/team/ibrahim_lawand.jpeg", "id" :"SV_team4" ,"link" :"https://www.youtube.com/channel/UCUR5mx6YA4r8h-u8e5TdlRQ"}
+]
