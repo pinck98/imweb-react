@@ -1,0 +1,5 @@
+[
+    {"id" : "sml_1" , "icon" : "bx bxl-facebook" , "link" : "https://facebook.com/"},
+    {"id" : "sml_2" , "icon" : "bx bxl-instagram" , "link" : "//instagram.com"},
+    {"id" : "sml_3" , "icon" : "bx bxl-behance" , "link" : "//behance.net/ibrahimmaded"}
+]
